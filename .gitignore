@@ -1,0 +1,11 @@
+local.properties
+out/
+bin/
+gen/
+.settings/
+build/
+.metadata/
+.DS_STORE
+.gradle/
+*.log
+archives/
